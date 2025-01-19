@@ -1,0 +1,7 @@
+Monday, 21
+Tuesday, -45
+Wednesday, 12
+Thursday, 48
+Friday, 29
+Saturday, 0
+Sunday, 25
